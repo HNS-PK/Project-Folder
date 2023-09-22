@@ -23,3 +23,5 @@ for x in ['machine1', 'machine2', 'machine3']:
         pyautogui.write('command3', interval=0.1)
     time.sleep(1)
     pyautogui.press('enter')
+
+print ("hello")
